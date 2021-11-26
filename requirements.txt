@@ -1,0 +1,4 @@
+setuptools>=40.4.3
+resource_pool>=0.2.0
+pandas>=1.2.3
+numpy>=1.20.1
